@@ -76,7 +76,7 @@ TRAIN_DATA = [
 - ner: Named Entity Recognition component
 
 ## 📈 Performance:
-F1 Score: 56%
+F1 Score: 53%
 
 Trained on 2160 resumes and tested on 541 resumes
 
